@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import { get } from "@/lib/fetch";
-import { getRepository } from "@/services/respositories";
+import { getRepository } from "@/actions/respositories";
 import Link from "next/link";
 import NavBar from "@/components/NavBar/NavBar";
 
