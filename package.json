@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",
+    "@newhighsco/next-plugin-svgr": "^3.0.129",
     "@types/node": "^20.12.7",
     "@types/react": "^18",
     "@types/react-dom": "^18",
